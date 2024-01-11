@@ -6,7 +6,7 @@ from os.path import exists, basename, splitext
 from datetime import datetime
 from fabric.api import env, task, put, local, run
 env.use_ssh_config = True
-env.hosts = ["54.237.61.71", "54.146.64.127"]
+env.hosts = ["54.234.94.169", "3.86.13.185"]
 
 
 def do_pack():
