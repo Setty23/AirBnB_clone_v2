@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-dule Docs
+moddule Docs
 """
 from flask import Flask
 from models import *
